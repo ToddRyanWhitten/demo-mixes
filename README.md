@@ -24,6 +24,11 @@ manually from the **Actions** tab after Pages is enabled. It downloads Git LFS
 content and publishes only the HTML pages, stylesheet, and MP3 files; WAV files
 and repository tooling are excluded.
 
+Keep **Deploy GitHub Pages** as the only Pages deployment workflow. A separate
+Jekyll deployment without Git LFS checkout can overwrite the working site with
+pointer files: the controls appear, but the audio will not play. The workflow
+checks for these pointers and stops rather than publishing broken audio.
+
 ## Local playback and track updates
 
 Serve this directory with any static web server. The root `index.html` lists
