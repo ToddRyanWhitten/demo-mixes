@@ -2,20 +2,10 @@
 
 ## GitHub Pages
 
-Once Pages is enabled and the deployment succeeds, listen at:
+Listen at:
 
 - Active tracks: https://ToddRyanWhitten.github.io/demo-mixes/
 - Archive tracks: https://ToddRyanWhitten.github.io/demo-mixes/archive/
-
-To enable public hosting:
-
-1. In [Settings > General](https://github.com/ToddRyanWhitten/demo-mixes/settings),
-   use **Danger Zone > Change repository visibility** to make the repository public.
-   This exposes the repository's files and history, not just the published site.
-2. In [Settings > Pages](https://github.com/ToddRyanWhitten/demo-mixes/settings/pages),
-   select **GitHub Actions** as the build and deployment source.
-3. Merge the deployment workflow into `main`, or run **Deploy GitHub Pages**
-   manually if it is already merged.
 
 The published site is public; do not deploy tracks that should remain private.
 
