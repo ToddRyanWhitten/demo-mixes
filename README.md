@@ -1,13 +1,11 @@
-# Demo mixes
+# thunderbelly
 
-## GitHub Pages
+## demo mixes for songwriting projects - not for distribution
 
-Listen at:
+Listen to all available demo mixes:
 
 - Active tracks: https://ToddRyanWhitten.github.io/demo-mixes/
-- Archive tracks: https://ToddRyanWhitten.github.io/demo-mixes/archive/
-
-The published site is public; do not deploy tracks that should remain private.
+- Archived tracks: https://ToddRyanWhitten.github.io/demo-mixes/archive/
 
 The **Deploy GitHub Pages** workflow deploys on pushes to `main` and can also be run
 manually from the **Actions** tab after Pages is enabled. It downloads Git LFS
