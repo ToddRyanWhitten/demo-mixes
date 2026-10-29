@@ -1,6 +1,6 @@
 # thunderbelly
 
-## demo mixes for songwriting projects - not for distribution
+## demo mixes for ongoing songwriting projects - not for distribution
 
 Listen to all available demo mixes:
 
